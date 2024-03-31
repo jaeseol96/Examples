@@ -1,5 +1,3 @@
-package IMakeSound;
-
 public class Cat implements IMakesSound {
     String name;
 

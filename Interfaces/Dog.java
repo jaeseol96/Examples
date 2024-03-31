@@ -1,5 +1,3 @@
-package IMakeSound;
-
 public class Dog implements IMakesSound {
     String name;
 

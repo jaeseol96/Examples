@@ -1,5 +1,3 @@
-package IMakeSound;
-
 public class Mouse implements IMakesSound {
     String name;
 

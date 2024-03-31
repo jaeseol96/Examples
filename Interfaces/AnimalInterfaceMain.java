@@ -1,5 +1,3 @@
-package IMakeSound;
-
 import java.util.ArrayList;
 
 public class AnimalInterfaceMain {
